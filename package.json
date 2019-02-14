@@ -1,0 +1,28 @@
+{
+  "name": "graph-editor",
+  "version": "1.0.0",
+  "description": "Graph Editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamalm88/GraphChart.git"
+  },
+  "keywords": [
+    "graph-editor",
+    "graph-chart"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyamalm88/GraphChart/issues"
+  },
+  "homepage": "https://github.com/shyamalm88/GraphChart#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "http": "0.0.0",
+    "serve-static": "^1.13.2"
+  }
+}
